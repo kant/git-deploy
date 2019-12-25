@@ -2,7 +2,7 @@
 
 A simple server with little dependencies for deployment via gitlab-hooks.
 
-It includes a minimalitics frontent (Dashboard), that shows you a list of available
+It includes a minimalistics frontent (Dashboard), that shows you a list of available
 builds, their build logs and build status.
 
 ## Usage
